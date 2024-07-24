@@ -3,7 +3,6 @@ import css from "../css.jpg"
 import java from "../java.png"
 import html from "../html.png"
 import javascript from "../javascript.png"
-import spring from "../spring.png"
 import react from "../reactjs.png"
 import node from "../node.png"
 const Experience = () => {

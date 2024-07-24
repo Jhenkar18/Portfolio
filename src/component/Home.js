@@ -41,22 +41,22 @@ const Home = () => {
                 <h1 className="font-bold text-center ">Available on</h1>
                 <ul className="flex space-x-5">
                   <li>
-                    <a href="https://www.facebook.com/" target="_blank">
+                    <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
                       <FaSquareFacebook className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
+                    <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.youtube.com/" target="_blank">
+                    <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
                       <IoLogoYoutube className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://t.me/" target="_blank">
+                    <a href="https://t.me/" target="_blank" rel="noopener noreferrer">
                       <FaTelegram className="text-2xl cursor-pointer" />
                     </a>
                   </li>
